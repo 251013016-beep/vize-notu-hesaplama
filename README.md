@@ -1,0 +1,1 @@
+# vize-notu-hesaplama
